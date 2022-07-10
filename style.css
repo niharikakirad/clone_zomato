@@ -114,7 +114,7 @@ header{
 }
 .section-1 .section-1-item .items-details {
     position: absolute;
-    bottom: 3px;
+    bottom: 0px;
     align-items: center;
     border-radius: 0 0 15px 15px;
     background-color: white;
